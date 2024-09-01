@@ -464,7 +464,7 @@ a:any-link {
   }
 
   .main__content__image-container img {
-    max-width: 206px;
+    min-width: 200px;
   }
 
   .text-content__sub-title-main {
